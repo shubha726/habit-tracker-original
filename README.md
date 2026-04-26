@@ -1,5 +1,4 @@
-# habit-beatzz
-habit beats
+# habit-beatz
 Habit Beats is a web application designed to help users track and build positive daily habits through an intuitive interface, that allows the user to watch their favourite videos or listen to music on youtube after the task assigned is completed.
 
 Features
